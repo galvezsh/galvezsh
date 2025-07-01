@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hello, im <strong>Alberto Gálvez</strong> 👋</h1>
+</div>
 
-<!--
-**galvezsh/galvezsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 🌐 Cybersecurity specialist ( Malware analysis, network reinforcement, incident control, security awareness )
+- 📲 Android native developer ( Kotlin + Jetpack compose, MVVM + Clean Achitecture, Dagger Hilt, Paging3, Material3 )
+- 💻 Frontend developer ( HTML, CSS, JS, React, PHP, CakePHP )
+- 📊 Backend developer ( Java, Python, Shell Script, SQL, PL/SQL )
+- 🔧 Systems technician ( desktops, laptops, maintenance, servers, helpdesk, linux )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My best proyects

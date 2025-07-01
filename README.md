@@ -2,7 +2,7 @@
 <h1 align="center">Hello, im <strong>Alberto Gálvez</strong> 👋</h1>
 </div>
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrrksc_-1PSW4Sj7SUqdiZA?style=social)](https://youtube.com/galvezsh?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrrksc_-1PSW4Sj7SUqdiZA?style=social)](https://youtube.com/@galvezsh?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/galvezsh?style=social)](https://github.com/galvezsh)
 
 ## About me

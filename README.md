@@ -21,6 +21,8 @@
 
 ## 📊 GitHub Analytics
 
-<div align="left" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=galvezsh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=galvezsh&layout=compact&langs_count=8&theme=tokyonight"/></div>
+<div>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=galvezsh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="height: 180px; display: inline-block;" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=galvezsh&layout=compact&langs_count=8&theme=tokyonight" style="height: 180px; display: inline-block;" />
+</div>
+

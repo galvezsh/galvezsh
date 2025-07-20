@@ -17,7 +17,7 @@
 
 - 💾 RickAndMortyDB ( Rick and Morty database using Kotlin, Compose, MVVM + Clean, Dagger Hilt, Retrofit, and Paging )
 - 📋 Pizarra ( Basic KANBAN board stored in the cloud Kotlin, XML and Firestore )
-- 🌐 DigitalStudio ( My personal website built only with HTML, CSS and JS, with minor improvements like multi-domain support and recycling of components based entirely on JS )
+- 🌐 DigitalVoid ( My personal website built only with HTML, CSS and JS, with minor improvements like multi-domain support and recycling of components based entirely on JS )
 
 ## 📊 GitHub Analytics
 
